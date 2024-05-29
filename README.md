@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=2sel%&fontSize=90)
 
-I'm studying React.
-
-Interesting in JS, React
 
 Velog https://velog.io/@2sel
 
