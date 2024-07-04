@@ -12,12 +12,12 @@
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 <br/>
+
 ## ✨Learning✨
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 <br/>
+
 ## ✨State✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sel&show_icons=true&theme=material-palenight) 
 
