@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=2sel%&fontSize=90)
 
+
+<div align=center>
+
+  
 ## ✨Front-end Skill✨
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br/>
@@ -39,5 +43,7 @@
 ## ✨State✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sel&layout=compact&theme=material-palenight&langs_count=5)
 
+
+</div>
   
 
