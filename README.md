@@ -2,7 +2,7 @@
 
 
 
-![state]([URL_링크](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white))
+![Ts]([URL_링크](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white))
 
 
 
