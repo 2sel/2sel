@@ -6,7 +6,7 @@ https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescri
 
 
 
-(url) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sel&show_icons=true&theme=material-palenight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sel&show_icons=true&theme=material-palenight) 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sel&layout=compact&theme=material-palenight&langs_count=5)
